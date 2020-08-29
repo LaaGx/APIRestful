@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"USUARIO_",
+				"USUARIO_VERIFICADO〔constant〕"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"AC",
+				"action\tAttr"
+			],
+			[
+				"met",
+				"method_exists〔function〕"
+			],
+			[
+				"include",
+				"include〔function〕"
+			],
+			[
+				"mysqli_co",
+				"mysqli_connect〔function〕"
+			],
+			[
+				"require",
+				"require〔function〕"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"sesion",
+				"session_destroy〔function〕"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"php",
+				"phpinfo〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sublimelinter p",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"Install Package Control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Http",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/database",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/database/migrations",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/resources",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/routes"
+	],
+	"file_history":
+	[
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/database/migrations/2020_08_25_032700_category_product_table.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/config/database.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Providers/AppServiceProvider.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/database/migrations/2020_08_24_000331_create_categories_table.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Http/Controllers/Controller.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/database/migrations/2020_08_24_000129_create_products_table.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/database/migrations/2020_08_24_000302_create_transactions_table.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Product.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/User.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Transaction.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Seller.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Buyer.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Category.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/routes/api.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Http/Controllers/Product/ProductController.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/routes/web.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/app/Providers/RouteServiceProvider.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/.env",
+		"/Users/laagx/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/Users/laagx/Library/Application Support/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos LARAVEL/APIRestful/Homestead.yaml",
+		"/Users/laagx/Desktop/PROYECTOS/APIRestful/Homestead.yaml",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/MySQL/uno.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/MySQL/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/conexion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/uno.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/cinco.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/cuatro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/tres.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/dos.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/index2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/conexion2.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/proyecto/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/login_crud/bd/conexion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/login_crud/bd/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/login_crud/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/login_crud/login_2019.sql",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos PHP/Login, Dashboard y CRUD - Todo en uno/login_crud/login_2019.sql",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/htdocs/chinahao_restaurante/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/Views/reservas/reservas.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/Views/modules/ventas/conexion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/Views/modal/modal_usuarios.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/Views/modules/usuarios/usuarios.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/Views/login/login.php",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos PHP/restaurante/dompdf/readme.html",
+		"/Users/laagx/Desktop/PROYECTOS/Proyectos PHP/restaurante/dompdf/dompdf_config.custom.inc.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/Model/conexion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/Controller/usuariosController/usuariosController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/restaurante/restaurant.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/test_empleados/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test_empleados/edit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test_empleados/conexion.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test_empleados/add.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test_empleados/profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/test_empleados/nav.php",
+		"/Users/laagx/Desktop/index.html",
+		"/Users/laagx/Downloads/index.php",
+		"/private/var/folders/_l/qmszlcn52s17lrj7yclknf1h0000gn/T/fz3temp-2/index.php",
+		"/Users/laagx/Downloads/index.html",
+		"/private/var/folders/_l/qmszlcn52s17lrj7yclknf1h0000gn/T/fz3temp-2/wp-config 2.php",
+		"/private/var/folders/_l/qmszlcn52s17lrj7yclknf1h0000gn/T/fz3temp-2/wp-config.php",
+		"/private/var/folders/_l/qmszlcn52s17lrj7yclknf1h0000gn/T/fz3temp-2/rename-wp-login.php",
+		"/private/var/folders/_l/qmszlcn52s17lrj7yclknf1h0000gn/T/fz3temp-2/wps-hide-login.php",
+		"/private/var/folders/_l/qmszlcn52s17lrj7yclknf1h0000gn/T/fz3temp-2/wp-login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/elconsultorgt/config.php",
+		"/Users/laagx/Desktop/config.php",
+		"/Users/laagx/Desktop/elconsultorgt/htaccess.txt",
+		"/Users/laagx/Desktop/elconsultorgt/config.php",
+		"/Users/laagx/Desktop/wowonder.sql",
+		"/Users/laagx/Desktop/elconsultorgt/script_backups/27-07-2020/1595825087/SQL-Backup-1595825087-27-07-2020.sql",
+		"/Users/laagx/Desktop/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/laagx/Desktop/BD XAMPP A AGREGAR/wowonder.sql",
+		"/Users/laagx/Downloads/envo-ecommerce/footer.php",
+		"/Users/laagx/Desktop/index.nginx-debian.html",
+		"/Users/laagx/Downloads/gpt-3-master/README.md",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/app/User.php",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/routes/api.php",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/routes/web.php",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/app/Http/Kernel.php",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/app/Providers/RouteServiceProvider.php",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/.env",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/composer.lock",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/prueba",
+		"/Users/laagx/Desktop/PROGRA/APIRestful/Homestead.yaml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "APIRestful.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 424.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
